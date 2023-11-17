@@ -3,3 +3,7 @@ function functionName(){
 	alert(arguments.callee.name);
 }
 functionName();
+function Acciojob(){
+  alert(arguments.callee.name);
+}
+Acciojob();
